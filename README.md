@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi I'm Will Massam I'm studying Part 2 Software Engineering at UOA  
 
-<!--
-**wmas516/wmas516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I've been programming since 2019 when I was introduced to QBasic in high school
 
-Here are some ideas to get you started:
+### My primary language is Python but I have experience in QBasic, C and MATLAB 
 
-- 🔭 I’m currently working on my software engineering degree from UOA
-- 🌱 I’m currently learning Java, OOP, DSA, Descrete Mathmatics
--->
+### Hoping to get experience in Java this year with concepts such as OOP, DSA and more
